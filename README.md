@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Andre-Peterson%22%2C%22name%22%3A%22Andre%20Peterson%22%2C%22email%22%3A%22Pondicase%40yahoo.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Aspiring%20IT%20professional%20passionate%20about%20cybersecurity%2C%20networking%20and%20AI.%20Motivated%20IT%20professional%20with%20a%20strong%20foundation%20in%20networking%20concepts%2C%20cybersecurity%20fundamentals%2C%20and%20emerging%20AI%20technologies.%22%2C%22themeIdx%22%3A1%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22Operating%20Systems%22%2C%22Storage%20Devices%22%2C%22Firewalls%22%2C%22Routing%20%26%20Switching%22%2C%22Network%2B%22%2C%22Python%22%2C%22Threat%20Analysis%22%2C%22CompTIA%20Security%2B%22%2C%22DNS%22%2C%22TCP%2FIP%22%5D%2C%22headlines%22%3A%5B%22Help%20Desk%20Specialist%22%2C%22IT%20Professional%22%2C%22Cybersecurity%20Professional%22%2C%22USMC%20Veteran%22%5D%2C%22customHeadlines%22%3A%5B%22USMC%20Veteran%22%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Andre-Peterson%22%2C%22name%22%3A%22Andre%20Peterson%22%2C%22email%22%3A%22Pondicase%40yahoo.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Aspiring%20IT%20professional%20passionate%20about%20cybersecurity%2C%20networking%20and%20AI.%20Motivated%20IT%20professional%20with%20a%20strong%20foundation%20in%20networking%20concepts%2C%20cybersecurity%20fundamentals%2C%20and%20emerging%20AI%20technologies.%22%2C%22themeIdx%22%3A1%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22Operating%20Systems%22%2C%22Storage%20Devices%22%2C%22Firewalls%22%2C%22Routing%20%26%20Switching%22%2C%22Python%22%2C%22DNS%22%2C%22TCP%2FIP%22%2C%22Troubleshooting%22%2C%22Virtualization%22%2C%22Subnetting%22%2C%22Wi-Fi%22%2C%22Git%22%2C%22Microsoft%20Azure%22%5D%2C%22headlines%22%3A%5B%22Help%20Desk%20Specialist%22%2C%22IT%20Professional%22%2C%22Cybersecurity%20Professional%22%2C%22USMC%20Veteran%22%5D%2C%22customHeadlines%22%3A%5B%22USMC%20Veteran%22%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Github%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -24,13 +24,13 @@ Aspiring IT professional passionate about cybersecurity, networking and AI. Moti
 
 ## Skills Learned
 
-🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-2da44e?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-2da44e?style=flat-square) ![Storage Devices](https://img.shields.io/badge/Storage%20Devices-2da44e?style=flat-square)
+🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-2da44e?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-2da44e?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-2da44e?style=flat-square) ![Storage Devices](https://img.shields.io/badge/Storage%20Devices-2da44e?style=flat-square) ![Virtualization](https://img.shields.io/badge/Virtualization-2da44e?style=flat-square)
 
-🌐 Networking & Security: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-2da44e?style=flat-square) ![DNS](https://img.shields.io/badge/DNS-2da44e?style=flat-square) ![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-2da44e?style=flat-square) ![Firewalls](https://img.shields.io/badge/Firewalls-2da44e?style=flat-square) ![Network+](https://img.shields.io/badge/Network%2B-2da44e?style=flat-square)
+🌐 Networking & Security: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-2da44e?style=flat-square) ![DNS](https://img.shields.io/badge/DNS-2da44e?style=flat-square) ![Subnetting](https://img.shields.io/badge/Subnetting-2da44e?style=flat-square) ![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-2da44e?style=flat-square) ![Firewalls](https://img.shields.io/badge/Firewalls-2da44e?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-2da44e?style=flat-square)
 
-💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-2da44e?style=flat-square)
+💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-2da44e?style=flat-square) ![Git](https://img.shields.io/badge/Git-2da44e?style=flat-square)
 
-🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-2da44e?style=flat-square) ![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-2da44e?style=flat-square)
+☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-2da44e?style=flat-square)
 
 ---
 
@@ -39,7 +39,9 @@ Aspiring IT professional passionate about cybersecurity, networking and AI. Moti
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Github | — | ✅ Complete | — |
 
 </details>
 
